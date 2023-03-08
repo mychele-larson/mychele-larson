@@ -1,18 +1,22 @@
 ## My name is Mychele Larson.
 
-<!--
-**mychele-larson/mychele-larson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
  🔭 I’m currently working on my Certification as a Data Analyst at the University of Texas, San Antonio.  
+ 
  🌱 I’m currently learning Deep Machine Learning and Big Data Analytics.
+ 
  👯 I’m looking to start my new career after graduation on March 23, 2023.
-- 💬 Ask me about ...
+ 
  📫 How to reach me: mlarson.atx@gmail.com
+ 
  😄 Pronouns: She/her
-- 
--->
-Mychele's GitHub Stats:
+
+ <br>
+  <br>
+   <br>
+    <br>
+
+
+## *Mychele's GitHub Stats:*
 
 ![Mychele's GitHub stats](https://github-readme-stats.vercel.app/api?username=mychele-larson&theme=shades-of-purple&show_icons=true)
 
