@@ -6,7 +6,7 @@
  
  👯 I’m looking to start my new career after graduation on March 23, 2023.
  
- mlarson.atx@gmail.com 
+ :e-mail: mlarson.atx@gmail.com 
  
  
  😄 Pronouns: She/her
