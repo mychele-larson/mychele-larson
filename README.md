@@ -11,6 +11,9 @@
  
  😄 Pronouns: She/her
 
+
+![](https://view-counter.tobyhagan.com/?user={mychele-larson}&base=EEEC57&accent=6433FF&text=black)
+
  <br>
   <br>
    <br>
@@ -18,6 +21,9 @@
 
 
 ## *Mychele's GitHub Stats:*
+
+
+
 
 ![Mychele's GitHub stats](https://github-readme-stats.vercel.app/api?username=mychele-larson&theme=shades-of-purple&show_icons=true)
 
