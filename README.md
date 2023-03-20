@@ -7,22 +7,20 @@
  👯 I’m looking to start my new career after graduation on March 23, 2023.
  
  :e-mail: mychele.larson@gmail.com 
- 
- 
- 😄 Pronouns: She/her
+  
+ <a href="https://www.linkedin.com/in/mychele-larson">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" width="30" height="30">
+ </a>
 
+<br>
+  <br> 
+  
+ 😄 Pronouns: She/her
 
 ![](https://view-counter.tobyhagan.com/?user={mychele-larson}&base=EEEC57&accent=6433FF&text=black)
 
- <br>
-  <br>
-   <br>
-    <br>
-
-
+  
 ## *Mychele's GitHub Stats:*
-
-
 
 
 ![Mychele's GitHub stats](https://github-readme-stats.vercel.app/api?username=mychele-larson&theme=shades-of-purple&show_icons=true)
