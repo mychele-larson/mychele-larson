@@ -6,16 +6,18 @@
  
  👯 I’m looking to start my new career after graduation on March 23, 2023.
  
- :e-mail: mychele.larson@gmail.com 
-  
- <a href="https://www.linkedin.com/in/mychele-larson">
+### *How to reach me:*  
+<a href="mailto:mychele.larson@gmail.com">
+  <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" width="30" height="30">
+</a>
+<a href="https://www.linkedin.com/in/mychele-larson">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" width="30" height="30">
- </a>
+</a>
 
 <br>
-  <br> 
+  <br>
   
- 😄 Pronouns: She/her
+ 😄 Pronouns: She/Her
 
 ![](https://view-counter.tobyhagan.com/?user={mychele-larson}&base=EEEC57&accent=6433FF&text=black)
 
