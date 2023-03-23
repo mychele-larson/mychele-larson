@@ -1,10 +1,10 @@
 ## My name is Mychele Larson.
 
- 🔭 I’m currently working on my Certification as a Data Analyst at the University of Texas, San Antonio.  
+ 🔭 I’m a recent grad of the Data Analyst Certification program at the University of Texas, San Antonio.  
  
- 🌱 I’m currently learning Deep Machine Learning and Big Data Analytics.
+ 🌱 I’m currently seeking an opportunity which will enable me to utilize my newly acquired data analysis skills in combination with over 25 years of expertise as a licensed healthcare professional.
  
- 👯 I’m looking to start my new career after graduation on March 23, 2023.
+ 👯 I’m looking to start my new career in Healthcare Data Analytics with a company committed to excellence in employee development, evidence-based outcomes and outstanding quality healthcare. 
  
 ### *How to reach me:*  
 <a href="mailto:mychele.larson@gmail.com">
