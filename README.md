@@ -1,6 +1,6 @@
 ## My name is Mychele Larson.
 
- 🔭 I’m a recent grad of the Data Analyst Certification program at the University of Texas, San Antonio.  
+ 🔭 I’m a recently received my certificate as a Data Analyst from the University of Texas, San Antonio Bootcamp.
  
  🌱 I’m currently seeking an opportunity which will enable me to utilize my newly acquired data analysis skills in combination with over 25 years of expertise as a licensed healthcare professional.
  
