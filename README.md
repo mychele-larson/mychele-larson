@@ -1,8 +1,8 @@
 ## My name is Mychele Larson.
 
- 🔭 I’m a recently received my certificate as a Data Analyst from the University of Texas, San Antonio Bootcamp.
+ 🔭 I’m a lifelong learner who recently received my certificate as a Data Analyst from the University of Texas, San Antonio Bootcamp.
  
- 🌱 I’m currently seeking an opportunity which will enable me to utilize my newly acquired data analysis skills in combination with over 25 years of expertise as a licensed healthcare professional.
+ 🌱 I’m currently seeking an opportunity which will enable me to utilize my data analysis skills in combination with over 25 years of expertise as a licensed healthcare professional.
  
  👯 I’m looking to start my new career in Healthcare Data Analytics with a company committed to excellence in employee development, evidence-based outcomes and outstanding quality healthcare. 
  
